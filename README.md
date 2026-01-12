@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner-day.png" alt="Welcome Banner" />
+  <img src="./assets/banner_day.png" alt="Welcome Banner" />
 </p>
 
 ---

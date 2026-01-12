@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Brenno</h1>
 
-<!--
-**BrennoMG1/BrennoMG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Sistemas de Informação | Dados & Analytics
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>
+    Python • SQL • PySpark • Databricks • Power BI
+  </em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de Sistemas de Informação, com foco em **análise e engenharia de dados**.  
+Tenho experiência prática com **dados, cloud, DevOps e desenvolvimento**, adquirida em ambientes corporativos e programas de estágio rotativo.
+
+Atualmente, busco evoluir tecnicamente e aplicar meus conhecimentos em **projetos reais**, explorando soluções orientadas a dados.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Dados & Analytics**
+- Python, SQL, PySpark
+- Databricks, Power BI
+- Arquivos CSV e dados estruturados
+
+**Cloud & DevOps**
+- Google Cloud
+- Azure DevOps (pipelines, PRs)
+- Terraform, YAML
+- Grafana (observabilidade)
+
+**Desenvolvimento**
+- Java, Spring
+- Git & GitHub
+
+---
+
+## 📌 Projetos em destaque
+> *(Em breve)*  
+Aqui você poderá encontrar projetos focados em **dados, pipelines, análises e automações**.
+
+---
+
+## 🔗 Onde me encontrar
+<p>
+  <!-- Botões entram aqui -->
+</p>

@@ -10,6 +10,10 @@
   </em>
 </p>
 
+<p align="center">
+  <img src="./assets/banner-day.png" alt="Welcome Banner" />
+</p>
+
 ---
 
 ## 🚀 Sobre mim

@@ -59,7 +59,7 @@ Aqui você poderá encontrar projetos focados em **dados, pipelines, análises e
   <a href="mailto:brenno.mgonc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/JtME7pWx" target="_blank">
+  <a href="https://discord.gg/54gRdrMCex" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   </p>

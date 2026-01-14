@@ -66,8 +66,3 @@ Aqui você poderá encontrar projetos focados em **dados, pipelines, análises e
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrennoMG1&show_icons=true&theme=tokyonight" />
-</p>
-
-

@@ -45,8 +45,12 @@ Atualmente, busco evoluir tecnicamente e aplicar meus conhecimentos em **projeto
 ---
 
 ## 📌 Projetos em destaque
-> *(Em breve)*  
-Aqui você poderá encontrar projetos focados em **dados, pipelines, análises e automações**.
+### 💰 [ExpenseFlow | Plataforma de Automação Financeira](https://github.com/BrennoMG1/ExpenseFlow)
+**Solução de Hiperautomação e Orquestração de Processos**
+
+- **O que faz:** Integração de ponta a ponta entre uma interface Web (FastAPI) e robôs de RPA (UiPath) para automação de fluxos financeiros.
+- **Tech Stack:** Python, FastAPI, UiPath Cloud Orchestrator API, OAuth2, Regex.
+- **Destaque Técnico:** Implementação de autenticação segura via OAuth2 para disparo e monitoramento de jobs em tempo real via API, garantindo integridade de dados e observabilidade do processo.
 
 ---
 
